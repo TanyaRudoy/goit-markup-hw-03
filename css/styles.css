@@ -1,0 +1,120 @@
+.menu-nav {
+  font-family: Roboto;
+  font-style: medium;
+  font-weight: 500;
+  font-size: 16px;
+}
+.logo {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: black;
+}
+.logo-footer {
+  font-family: Raleway;
+  font-style: normal;
+  font-size: 26px;
+  color: white;
+}
+.Web {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  color: #2196f3;
+}
+.Studio {
+  font-family: Raleway;
+  font-style: normal;
+  font-size: 26px;
+  color: white;
+}
+.contacts {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #757575;
+}
+.contacts:hover {
+  color: #2196f3;
+}
+.body {
+  font-family: Roboto;
+  background-color: white;
+}
+.list {
+  list-style: none;
+}
+.text-decoration {
+  text-decoration: none;
+}
+.main_section {
+  background-color: #2f303a;
+}
+.main_title {
+  font-style: normal;
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 60px;
+  color: #ffffff;
+}
+.button:hover {
+  background: #2196f3;
+}
+.header_two {
+  font-style: normal;
+  font-size: 36px;
+  line-height: 42.19px;
+  color: #212121;
+}
+.paragraph {
+  font-style: normal;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 24px;
+  color: #757575;
+}
+.header_four {
+  font-style: normal;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 16.41px;
+}
+.names {
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+}
+.paragraph_two {
+  font-style: normal;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 18.75px;
+  color: #757575;
+}
+/* Portfolio */
+
+.header_four_portfolio {
+  font-style: normal;
+  font-size: 18px;
+  color: #212121;
+}
+.paragraph_portfolio {
+  font-style: normal;
+  font-size: 16px;
+  color: #757575;
+}
+.footer {
+  background-color: #2f303a;
+}
+.address-footer {
+  font-style: regular;
+  font-size: 14px;
+  color: white;
+}
+.address {
+  font-style: normal;
+  color: #ffffff;
+}
